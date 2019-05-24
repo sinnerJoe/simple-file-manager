@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/copy_action"
+        android:title="Copy"
+    />
+
+    <item
+        android:id="@+id/move_action"
+        android:title="Move"
+    />
+    <item
+        android:id="@+id/rename_action"
+        android:title="Rename"
+    />
+
+    <item
+        android:id="@+id/delete_action"
+        android:title="Delete"
+    />
+
+
+</menu>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Basic File Explorer</string>
+    <string name="title_activity_text_file_edit">TextFileEditActivity</string>
+    <string name="editing_file_exit">Do you want to save the changes to file?</string>
+    <string name="save">Save</string>
+    <string name="discard">Discard</string>
+    <string name="cancel">Back to editing</string>
+    <string name="back">Back</string>
+</resources>
